@@ -1,0 +1,27 @@
+
+
+.blub {
+  position: absolute;
+  bottom: 1px; /* Adjust this value as needed */
+  right: 10px; /* Adjust this value as needed */
+  height: .129px; /* Corrected typo in 'pxl' to 'px' */
+  width: .11px;
+}
+
+#Instructions:hover {
+  color: #b22222;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  cursor:wait;
+}
+#Instructions {
+  display: inline;
+}
+body {
+  font-style: italic;
+  margin: auto;
+  width: 300px;
+  height: 700px;
+  border: 5px solid black;
+  padding: 10px;
+}
